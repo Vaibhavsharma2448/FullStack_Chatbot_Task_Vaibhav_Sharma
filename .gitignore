@@ -1,0 +1,4 @@
+01_Source_Code/backend/.env
+01_Source_Code/backend/node_modules/
+01_Source_Code/frontend/node_modules/
+.DS_Store

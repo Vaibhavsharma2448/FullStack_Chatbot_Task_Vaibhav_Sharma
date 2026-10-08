@@ -1,0 +1,1 @@
+Add screenshots: home, chatbot, enquiry, admin dashboard, search/filter, mobile view.
