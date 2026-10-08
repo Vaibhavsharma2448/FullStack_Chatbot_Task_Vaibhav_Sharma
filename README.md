@@ -1,4 +1,4 @@
-# FullStack Chatbot Task – Vaibhav Krishnatrey
+# FullStack Chatbot Task – Vaibhav Sharma
 
 Responsive DroneTV AI Support & Lead Assistant for the IPAGE Group internship assignment.
 
